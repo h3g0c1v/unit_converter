@@ -22,6 +22,7 @@ function helpPanel(){
 
     echo -e "\t${purple}-u${end}${gray} Introducir el numero de unidades${end}"
     echo -e "\t${purple}-m${end}${gray} Introducir la medida en la que esta la unidad ${end}${blue}($0 -m show para visualizar las medidas disponibles)${end}"
+    echo -e "\t${purple}-c${end}${gray} Introducir la medida a la que se va a convertir${end}"
 }
 
 function helpPanelMedidas(){
