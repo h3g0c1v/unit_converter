@@ -10,7 +10,7 @@ Script that converts one unit to another unit
 ## See the availables measures
 ./unit_converter.sh -m show
 
-## See Help Panel
+## See the Help Panel
 ./unit_converter.sh -h
 
 ## Example:
